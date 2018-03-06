@@ -1,2 +1,0 @@
-# SummertSet
-Voice GUide Adventure
